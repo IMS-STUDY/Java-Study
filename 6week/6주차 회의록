@@ -1,1 +1,17 @@
+### 열거형
+- enum 사용 이유 : 상수들을 논리적으로 구분하기 위해
+- enum 메서드 : valueOf(String arg), values(), name() 등
+- java.lang.Enum : 사용자 정의 열거형의 모든 조상
+- EnumSet :  java.util 패키지에서 제공하는 enum 클래스와 함께 동작하는 구현체
 
+### 어노이션
+- 자바에서 어노테이션은 필수가 아니다. But 스프링에서는 필수
+- @retention, @target, @documented
+
+### 스케줄링 알고리즘 구현
+- 모든 스케줄링 알고리즘에서 사용되는 작업 요소 : int id, int size
+- FIFO(First In First Out) : Queue 자료구조를 이용하여 구현
+- LIFO(Last In First Out) : Stack 자료구조를 이용하여 구현
+- RR(Round Robin) : 
+	- 우선 순위를 두지 않고 순서대로 시간 단위로 CPU를 할당하는 방식
+	- 시간 단위동안 수행한 프로세스는 준비 Queue의 끝으로 밀려나게 됨
