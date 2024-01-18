@@ -5,17 +5,16 @@
  - 자바 기본 개념부터 깊은 이해까지 학습하기 위한 스터디입니다.
  - 개발자 백기선님의 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라 진행합니다.
 
-
-| 스터디 멤버 |
-| :---: |
-| [김상규](https://github.com/ggyu0629) |
-| [염예찬](https://github.com/yyechan0602) |
-| [조은상](https://github.com/JoEunSang) |
-| [방남현](https://github.com/bnh5992) |
-| [정소영](https://github.com/abbiddo) |
-| [이종재](https://github.com/dlwhdwo37) |
-| [박윤진](https://github.com/qkrbswls) |
-| [김나현](https://github.com/bluewing0303) |
+| 스터디 멤버 | 레포지토리 |
+| :---: | :---: |
+| 김상규 | [GitHub](https://github.com/ggyu0629) |
+| 염예찬 | [GitHub](https://github.com/yyechan0602) |
+| 조은상 | [GitHub](https://github.com/JoEunSang) |
+| 방남현 | [GitHub](https://github.com/bnh5992) |
+| 정소영 | [GitHub](https://github.com/abbiddo) |
+| 이종재 | [GitHub](https://github.com/dlwhdwo37) |
+| 박윤진 | [GitHub](https://github.com/qkrbswls) |
+| 김나현 | [GitHub](https://github.com/bluewing0303) |
 
 
 ## 스터디 진행 방식
