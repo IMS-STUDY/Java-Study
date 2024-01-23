@@ -43,10 +43,10 @@
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) |✔️|
-| 2회차 | [2주차](https://github.com/TUK-education-java/study/issues/3) | 2023.10.10 (화) |✔️|
-| 3회차 | [3주차](https://github.com/TUK-education-java/study/issues/6) | 2023.10.16 (월) |✔️|
-| 4회차 | [4주차](https://github.com/TUK-education-java/study/issues/8) | 2023.10.30 (월) |✔️|
-| 5회차 | [5주차](https://github.com/TUK-education-java/study/issues/10) | 2023.11.06 (월) |✔️|
-| 6회차 | [6주차](https://github.com/TUK-education-java/study/issues/12) | 2023.11.13 (월) |✔️|
-| 7회차 | [7주차](https://github.com/TUK-education-java/study/issues/14) | 2023.11.20 (월) |✔️|
+| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | [1주차 회의록](https://github.com/IMS-STUDY/Java-Study/blob/main/1week/%EC%B5%9C%EC%A2%85%20%ED%86%A0%EC%9D%98%EB%A1%9D/1%EC%A3%BC%EC%B0%A8.md) | 2023.9.25 (월) |✔️|
+| 2회차 | [2주차](https://github.com/TUK-education-java/study/issues/3) | [1주차 회의록](2023.10.10 (화)) |✔️|
+| 3회차 | [3주차](https://github.com/TUK-education-java/study/issues/6) | [1주차 회의록](2023.10.16 (월)) |✔️|
+| 4회차 | [4주차](https://github.com/TUK-education-java/study/issues/8) | [1주차 회의록](2023.10.30 (월)) |✔️|
+| 5회차 | [5주차](https://github.com/TUK-education-java/study/issues/10) | [1주차 회의록](2023.11.06 (월)) |✔️|
+| 6회차 | [6주차](https://github.com/TUK-education-java/study/issues/12) | [1주차 회의록](2023.11.13 (월)) |✔️|
+| 7회차 | [7주차](https://github.com/TUK-education-java/study/issues/14) | [1주차 회의록](2023.11.20 (월)) |✔️|
