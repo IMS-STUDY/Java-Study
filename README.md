@@ -1,4 +1,4 @@
-# TUK-education-java = Te java
+# IMS-Study - Te java
 
 
 ## 스터디 소개
