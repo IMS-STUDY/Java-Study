@@ -1,4 +1,4 @@
-# IMS-Study - Te java
+# Java Study
 
 
 ## 스터디 소개
