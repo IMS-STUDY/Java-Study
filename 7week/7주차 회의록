@@ -1,17 +1,30 @@
-### 열거형
-- enum 사용 이유 : 상수들을 논리적으로 구분하기 위해
-- enum 메서드 : valueOf(String arg), values(), name() 등
-- java.lang.Enum : 사용자 정의 열거형의 모든 조상
-- EnumSet :  java.util 패키지에서 제공하는 enum 클래스와 함께 동작하는 구현체
+## 목표
+자바의 Input과 Ontput에 대해 학습하세요.
 
-### 어노이션
-- 자바에서 어노테이션은 필수가 아니다. But 스프링에서는 필수
-- @retention, @target, @documented
+### 학습할 것 (필수)
+\- 스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O
+\- InputStream과 OutputStream
+\- Byte와 Character 스트림
+\- 표준 스트림 (System.in, System.out, System.err)
+\- 파일 읽고 쓰기
 
-### 스케줄링 알고리즘 구현
-- 모든 스케줄링 알고리즘에서 사용되는 작업 요소 : int id, int size
-- FIFO(First In First Out) : Queue 자료구조를 이용하여 구현
-- LIFO(Last In First Out) : Stack 자료구조를 이용하여 구현
-- RR(Round Robin) : 
-	- 우선 순위를 두지 않고 순서대로 시간 단위로 CPU를 할당하는 방식
-	- 시간 단위동안 수행한 프로세스는 준비 Queue의 끝으로 밀려나게 됨
+## 목표
+자바의 제네릭에 대해 학습하세요.
+
+### 학습할 것 (필수)
+\- 제네릭 사용법
+\- 제네릭 주요 개념 (바운디드 타입, 와일드 카드)
+\- 제네릭 메소드 만들기
+\- Erasure
+
+## 목표
+자바의 람다식에 대해 학습하세요.
+
+### 학습할 것 (필수)
+\- 람다식 사용법
+\- 함수형 인터페이스
+\- Variable Capture
+\- 메소드, 생성자 레퍼런스
+
+## 마감일시
+23-11-19 자정
